@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296765440750",
+    "project_id": "authentic-sneaker-3ee83",
+    "storage_bucket": "authentic-sneaker-3ee83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296765440750:android:ff1310029a3d85e27ea9ff",
+        "android_client_info": {
+          "package_name": "com.example.authenticsneaker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtY2FXFBPecbpzq0oq8VCzQxyBgLvI5ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
