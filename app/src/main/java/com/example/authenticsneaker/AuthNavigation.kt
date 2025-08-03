@@ -245,7 +245,7 @@ fun HomeScreen(
         ) {
             Text(
                 text = "Welcome to AuthenticSneaker!",
-                fontSize = 23.sp,
+                fontSize = 22.sp,
                 color = Color.White
             )
             
